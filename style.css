@@ -55,6 +55,13 @@ header {
     margin: 0;
 
 }
+.audiodiv {
+    padding: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .box-uno, .box-cinco, .box-tres, .box-siete {
     width: 100%;
     height: auto;
